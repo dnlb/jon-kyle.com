@@ -5,7 +5,7 @@ view: about
 
 text: Los Angeles, Calif.
 
-[contact@jon-kyle.com](contact@jon-kyle.com)
+[contact@jon-kyle.com](mailto:contact@jon-kyle.com)
 
 [Github](https://github.com/jondashkyle/jon-kyle.com), [Twitter](http://twitter.com/jondashkyle), [Arena](https://www.are.na/jon-kyle-mohr/)
 
